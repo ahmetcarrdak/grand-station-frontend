@@ -1,0 +1,16 @@
+:root {
+    --light: #ffffff; /* Arka plan rengi için beyaz */
+    --info: #00a1e4; /* Bilgi rengi aynı kalabilir */
+    --error: #b02e0c; /* Hata rengi aynı kalabilir */
+    --success: #04f06a; /* Başarı rengi aynı kalabilir */
+    --warning: #ff9f1c; /* Uyarı rengi aynı kalabilir */
+  
+    --cur_back: #f0f0f0; /* Arka plan için açık gri */
+    --led: #00a5cf; /* LED rengi aynı kalabilir */
+    --turbo: #004e64; /* Turbo rengi biraz daha açık bir ton olabilir */
+    --oxford: #e6e6e9; /* Oxford rengi açık gri tonunda */
+  
+    --text: #333333; /* Metin rengi daha koyu bir gri */
+    --text2: #666666; /* İkincil metin rengi daha açık bir gri */
+  }
+  

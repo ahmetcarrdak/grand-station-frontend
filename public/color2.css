@@ -1,0 +1,15 @@
+:root {
+  --light: #ecf8f8;
+  --info: #00a1e4;
+  --error: #b02e0c;
+  --success: #04f06a;
+  --warning: #ff9f1c;
+
+  --cur_back: #004e64;
+  --led: #00a5cf;
+  --turbo: #111d4a;
+  --oxford: #020122;
+
+  --text: #e6e6e9;
+  --text2: #66666e;
+}
